@@ -1,0 +1,10 @@
+google-cloud-aiplatform
+sentence-transformers
+tiktoken 
+chromadb
+langchain
+langchain-community
+langchain-google-vertexai
+flask
+GitPython
+python-dotenv
