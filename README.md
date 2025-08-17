@@ -55,3 +55,9 @@ open up localhost:
 - gemini-2.5-pro
 - ChoromaDB
 
+### Sample Of The Chatbot
+-here paste the repo link:
+<img width="965" height="194" alt="image" src="https://github.com/user-attachments/assets/88cc2ca4-4e07-48e5-913f-c472984954d0" />
+
+-here chatbot's output:
+<img width="659" height="537" alt="image" src="https://github.com/user-attachments/assets/1e3a42d6-bbee-4c03-97c3-ca57529038e0" />
